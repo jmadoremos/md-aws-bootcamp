@@ -52,6 +52,12 @@
 
 * X1 - memory optimized (eg., sap hana, apache spark)
 
+* Z - Extreme memory and CPU
+
+* A - Arm-based workloads
+
+* U - Bare Metal
+
 ## Elastic Block Storage (EBS)
 
 * for OS, Applications, etc

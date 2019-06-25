@@ -12,7 +12,7 @@
 
 * If you terminate the instance yourself, you will be charged for the complete hour in which the instance ran
 
-* FIGHT DR MC PX
+* FIGHT DR MC PXZ AU
 
 * SSD: General Purpose - balances price and performance
 
